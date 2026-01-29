@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rajdeep 👋
 
-<!--
-**raj19-dev/raj19-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student (Cybersecurity)  
+🇮🇳 From India  
+🎯 Aspiring GKS Scholar (2029)  
+💻 Learning Python & Cybersecurity  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Basics of Cybersecurity
+- Git & GitHub
+- Networking (Cisco)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔐 Password Strength Checker (Python)
+
+## 📚 Currently Learning
+- Google Cybersecurity Certificate
+- Data Structures
+- Linux Basics
+
+## 📫 Connect With Me
+- Email: gangulyrajdeep482@gmail.com
